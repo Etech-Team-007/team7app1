@@ -1,2 +1,2 @@
-@library('team7-shared-library') _
+@Library('team7-shared-library') _
 etechApp 'https://github.com/Etech-Team-007/team7app1.git'
